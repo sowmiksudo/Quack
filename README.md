@@ -6,23 +6,23 @@
   <a href="http://entynetproject.simplesite.com/">
     <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
   </a>
-  <a href="https://github.com/entynetproject/quack/releases">
-    <img src="https://img.shields.io/github/release/entynetproject/quack.svg">
+  <a href="https://github.com/XowmikXoss/quack/releases">
+    <img src="https://img.shields.io/github/release/XowmikXoss/quack.svg">
   </a>
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blue.svg">
  </a>
-  <a href="https://github.com/entynetproject/quack/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues/entynetproject/quack.svg">
+  <a href="https://github.com/XowmikXoss/quack/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues/XowmikXoss/quack.svg">
   </a>
-  <a href="https://github.com/entynetproject/quack/wiki">
+  <a href="https://github.com/XowmikXoss/quack/wiki">
       <img src="https://img.shields.io/badge/wiki%20-quack-lightgrey.svg">
  </a>
-  <a href="https://twitter.com/entynetproject">
-    <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
+  <a href="https://twitter.com/XowmikXoss">
+    <img src="https://img.shields.io/badge/twitter-XowmikXoss-blue.svg">
  </a>
-  <a href="https://github.com/LimerBoy/Impulse">
-    <img src="https://img.shields.io/badge/based%20on-Impulse-red.svg">
+  <a href="https://github.com/XowmikXoss">
+    <img src="https://img.shields.io/badge/based%20on-Xowmik-red.svg">
  </a>
 </p>
 
