@@ -74,7 +74,7 @@ sleep 0
 else
 cd ~
 {
-git clone https://github.com/entynetproject/quack.git
+git clone https://github.com/xowmikxoss/quack.git
 } &> /dev/null
 fi
 
